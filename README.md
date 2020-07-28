@@ -1,4 +1,4 @@
-# Express Note-taker
+# Express Notetaker
 
 ## Link to Express Note Taker
 https://serene-eyrie-74606.herokuapp.com/
