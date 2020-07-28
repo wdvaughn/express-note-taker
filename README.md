@@ -15,6 +15,8 @@ Here is what the Note Taker will look like on startup.
 ![image](./note-taker-start.png)
 
 ## Note Writing
+Here is what the Note Taker looks like when taking notes.
 
+![image](./note-taker-write.png)
 
 ## Notes Saved
