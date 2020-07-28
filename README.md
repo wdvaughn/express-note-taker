@@ -20,3 +20,6 @@ Here is what the Note Taker looks like when taking notes.
 ![image](./note-taker-write.png)
 
 ## Notes Saved
+Here is whate the Note Taker looks like after saving a note.
+
+![image](./note-taker-reminder.png)
